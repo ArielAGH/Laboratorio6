@@ -110,6 +110,6 @@ El osciloscopio es un instrumento de medición útil para el análisis de distin
 ## 9. BIBLIOGRAFÍA
 
 * Durán, J. (2012). *Electrotecnia*. Barcelona: Editorial Lexus.
-* Hetpro.(2018). *Osciloscopio ¿Qué es? y ¿Cómo se usa?* Obtenido de: https://hetpro-store.com/TUTORIALES/osciloscopio/
-* ToolBoom.(2015). *Osciloscopios: historia y clasificación.* Obtenido de: https://toolboom.com/es/articles-and-video/oscilloscopes-history-and-classification/
+* Hetpro. (2018). *Osciloscopio ¿Qué es? y ¿Cómo se usa?* Obtenido de: https://hetpro-store.com/TUTORIALES/osciloscopio/
+* ToolBoom. (2015). *Osciloscopios: historia y clasificación.* Obtenido de: https://toolboom.com/es/articles-and-video/oscilloscopes-history-and-classification/
 
